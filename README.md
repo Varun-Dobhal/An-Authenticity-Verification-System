@@ -34,6 +34,4 @@ Read SETUP_GUIDE.md:
 ## 📜 Patent & Legal Notice
 
 © 2025 All Rights Reserved.
-This system, including its design, concept, and underlying technology, is protected under Indian Patent — V. Dobhal, M. Wazid, D. P. Singh, "An Authenticity Verification System and Method Thereof," Indian patent published, 202411082477, 2024.
-
-Unauthorized reproduction, distribution, or use of any part of this work without prior written consent of the patent holders is strictly prohibited and may result in legal action.
+This system, including its design, concept, and underlying technology, is protected under Indian Patent — V. Dobhal, M. Wazid, D. P. Singh, "An Authenticity Verification System and Method Thereof," Indian patent published, 202411082477, 2024. Unauthorized reproduction, distribution, or use of any part of this work without prior written consent of the patent holders is strictly prohibited and may result in legal action.
