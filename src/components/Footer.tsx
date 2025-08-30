@@ -166,7 +166,7 @@ const Footer: React.FC = () => {
             {/* Copyright */}
             <div className="text-gray-400 text-sm">
               <p>
-                © 2024 All Rights Reserved. This system, including its design,
+                © 2025 All Rights Reserved. This system, including its design,
                 concept, and underlying technology, is protected under Indian
                 Patent — V. Dobhal, M. Wazid, D. P. Singh, "An Authenticity
                 Verification System and Method Thereof," Indian patent
