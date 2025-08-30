@@ -26,9 +26,11 @@ It provides a secure and transparent way to verify whether a product is **genuin
 ---
 
 ## ⚡ Getting Started
--Clone the repository.
--Read SETUP_GUIDE.md.
--Well I have performend all the steps already you just type npm install and enjoy.....
+- Clone the repository.  
+- Read **SETUP_GUIDE.md**.  
+- Well, I have performed all the steps already — you just type:  
+  ```bash
+  npm install
 
 
 ---
